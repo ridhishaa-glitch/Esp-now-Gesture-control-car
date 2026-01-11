@@ -20,6 +20,8 @@ All components were sourced keeping the budget in mind, primarily from Robu.in.
 | Misc. | Zero PCB, Header pins, Jumper wires | - | ₹150 |
 | Total Cost |  |  | ₹2,737 |
 
+I will need some extra money after testing and trial to order a pcb and a case.
+
 📝 Component Selection Logic
  * Why ESP-NOW? I chose this over Bluetooth for near-zero latency and better range without needing a router.
  * Why DRV8833? The body of my car is small. These drivers are much smaller than the bulky L298N and don't get as hot.
