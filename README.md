@@ -19,6 +19,7 @@ All components were sourced keeping the budget in mind, primarily from Robu.in.
 | LM2596 Step-down | To regulate voltage for stable operation | 1 | ₹75 |
 | Misc. | Zero PCB, Header pins, Jumper wires | - | ₹150 |
 | Total Cost |  |  | ₹4,385 |
+
 📝 Component Selection Logic
  * Why ESP-NOW? I chose this over Bluetooth for near-zero latency and better range without needing a router.
  * Why DRV8833? The body of my car is small. These drivers are much smaller than the bulky L298N and don't get as hot.
