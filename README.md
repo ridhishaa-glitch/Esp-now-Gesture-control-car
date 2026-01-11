@@ -25,3 +25,10 @@ All components were sourced keeping the budget in mind, primarily from Robu.in.
  * Why DRV8833? The body of my car is small. These drivers are much smaller than the bulky L298N and don't get as hot.
  * Why Mecanum Wheels? Regular wheels can only go front and back. These allow the car to slide sideways (strafing), making the gesture control look much more advanced.
  * Why Zero PCB? Shipping a custom PCB to India is very expensive. I did "Jugaad" with a Zero PCB to keep the project cost-effective.
+ * # ESP-NOW Gesture Controlled Mecanum Car
+
+## 📸 Project Gallery
+| :---: | :---: |
+| ![zero pcb board](IMG20260111082438.jpg) | ![Car Body](IMG20260111082422.jpg) |
+
+---
