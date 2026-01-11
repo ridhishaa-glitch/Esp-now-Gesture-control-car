@@ -13,8 +13,8 @@ All components were sourced keeping the budget in mind, primarily from Robu.in.
 | MPU6050 | 6-Axis Accelerometer + Gyroscope | 1 | ₹179  |
 | Mecanum Wheels | 60mm wheels for omnidirectional movement (will buy from offline market as its very costly online| 4 | ₹1,000 |
 | BO Motors | 150 RPM Yellow motors | 4 | ₹380 |
-| 18650 Li-ion Cells | Power source for the Car | 2 | ₹500 |
-| Li-Po Battery | Lightweight 3.7V battery for hand controller | 1 | ₹650 |
+| 18650 Li-ion Cells | Power source for the Car | 2 | ₹128 |
+| Li-Po Battery | Lightweight 3.7V battery for hand controller | 1 | ₹150 |
 | MT3608 Step-up | To boost voltage for the ESP32 | 1 | ₹40 |
 | LM2596 Step-down | To regulate voltage for stable operation | 1 | ₹36 |
 | Misc. | Zero PCB, Header pins, Jumper wires | - | ₹150 |
