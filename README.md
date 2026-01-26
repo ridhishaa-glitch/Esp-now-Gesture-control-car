@@ -33,6 +33,6 @@ I will need some extra money after testing and trial to order a pcb and a case.
 | :---: | :---: |
 | ![zero pcb board](IMG20260111082438.jpg) | ![Car Body](IMG20260111082422.jpg) |
 
-![3d design](Screenshot_2026-01-26-16-32-20-25.jpg) |
+![3d design](Screenshot_2026-01-26-16-32-20-25_40deb401b9ffe8e1df2f1cc5ba480b12.jpg) |
 
 ---
